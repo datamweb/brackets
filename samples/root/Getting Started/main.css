@@ -67,3 +67,9 @@ img {
         filter: grayscale(0%);
     }
 }
+/* add for rtl Languages */
+.rtl{
+    direction: rtl;
+    text-align: right;
+}
+/* Last Css code for 3bc8a7afeef40b51a47774a43382af11075132c9 */
